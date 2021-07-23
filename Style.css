@@ -1,0 +1,22 @@
+#btn{
+    outline: none;
+    padding: 12px 25px ;
+    background: none;
+    border: 1px solid blue;
+    transition: all 2s;
+}
+#btn:hover{
+    background: blueviolet;
+    cursor: pointer;
+}
+
+div#test{
+    margin: 100px auto;
+    border: 2px solid red;
+    height: 100px;
+    width: 200px;
+    text-align: center;
+}
+h1.col{
+    color: red;
+}
